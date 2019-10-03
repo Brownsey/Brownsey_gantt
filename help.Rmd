@@ -1,0 +1,22 @@
+---
+title: "User_guide"
+author: "Brownsey"
+date: "03/10/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How to use:
+Dates must be in the form: YYYY-MM-DD, this can be easily done in except by selected the start and end columns and formatting as date (YYYY-MM-DD).
+If you want to group the data then use the group column accordingly.
+To add differing colours to  your gantt by default the options you need to specify in className are: 
+*blank*: red for points, *Write_up*: orange, *Analysis*:grey, *Planning*:cyan, *Research*: green, of course you can download the code from GitHub and edit the style section to fully customise the colour scheme to your desire.getwd(0)
+Everything is **case SenSiTIve**
+Content is what you want to display as text on the gantt chart for that object
+type is what you want to appear on the gantt chart (point, background , range)
+subgroup can be used to order the grouping inside of each group if required.
+
+

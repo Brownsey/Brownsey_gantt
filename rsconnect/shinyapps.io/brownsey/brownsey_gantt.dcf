@@ -1,0 +1,10 @@
+name: brownsey_gantt
+title:
+username:
+account: brownsey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1283508
+bundleId: 2466795
+url: https://brownsey.shinyapps.io/brownsey_gantt/
+when: 1570138048.11564

@@ -21,7 +21,7 @@ ui <- fluidPage(
                     .vis-item.vis-selected {border-color: red;}
                     .vis-item.Planning { color: black; background-color: #1ac6ff; border-color: #1ac6ff;}
                     .vis-item.Research { color: black; background-color: #00e600; border-color: #00e600;}
-                    .vis-item.Analysis { color: black; background-color: #34A853; border-color: #34A853;}
+                    .vis-item.Analysis { color: black; background-color: #c8c3cc; border-color: #c8c3cc;}
                     .vis-item.Write_up { color: black; background-color: #ff7b25; border-color: #ff7b25;}
                     "))
     
